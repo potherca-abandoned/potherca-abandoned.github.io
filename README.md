@@ -6,6 +6,13 @@
 <link rel="stylesheet" href="https://pother.ca/CssBase/css/base.css" />
 <link rel="stylesheet" href="https://pother.ca/embed-jsfiddle-result-on-potherca.css" />
 
+<script
+  crossorigin="anonymous"
+  integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+  src="https://code.jquery.com/jquery-1.12.4.min.js"
+></script>
+ 
+
 <script>
 var $List = $('#list'),
     sUser ='potherca-abandoned',
